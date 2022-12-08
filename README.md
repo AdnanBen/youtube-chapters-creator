@@ -5,5 +5,3 @@ Currently configured to find all mp4 files in a directory, alphanumerically orde
 
 To Do:
 - Customisability
-
-first 
