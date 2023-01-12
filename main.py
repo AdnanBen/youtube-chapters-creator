@@ -17,7 +17,6 @@ def msFormatter(x):
 
 
 def main():
-    print("hello world")
     running_total = 0
     for file in glob.glob("*.mp4"):
         media_info = MediaInfo.parse(file)
